@@ -1,2 +1,2 @@
-# Tic_Tac_toe
+# Analog_clock
 This is a basic tic tac toe game, built using C++.
