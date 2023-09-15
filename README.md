@@ -1,2 +1,2 @@
 # Tic_Tac_toe
-Created a basic Tic Tac Toe game using C++
+This is a basic tic tac toe game, built using C++.
