@@ -1,2 +1,2 @@
 # Digital_clock
-This is a basic analog clock built in cpp
+This is a basic digital clock built in cpp.
